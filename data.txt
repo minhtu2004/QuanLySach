@@ -1,0 +1,8 @@
+B005	Nhap Mon Lap Trinh C	50000	10
+B002	Cau Truc Du Lieu	85000	15
+B004	Co So Du Lieu SQL	120000	5
+B009	Mang May Tinh	90000	20
+B003	Tu Duy Lap Trinh	200000	7
+B001	He Dieu Hanh Windows	150000	10
+B008	Ky Thuat Lap Trinh	75000	30
+B007	Tieng Anh Chuyen Nganh	110000	25
